@@ -22,7 +22,7 @@ Epoch 20/20
 50000/50000 [=====================] - 41s 814us/step - loss: 0.7545 - acc: 0.7409 - val_loss: 0.7362 - val_acc: 0.7489
 
 ### ELU is awesome!
-Switching to elu, it returned 95% accuracy!
+Switching to elu, it returned 95% accuracy! And also faster...
 
     Train on 50000 samples, validate on 10000 samples
 Epoch 1/20
